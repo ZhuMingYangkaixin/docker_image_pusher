@@ -7,4 +7,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent
 joxit/docker-registry-ui:static
 weejewel/wg-easy
-portainer/portainer
+portainer/portainer-ce
