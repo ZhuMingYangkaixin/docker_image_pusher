@@ -8,4 +8,4 @@ linuxserver/qbittorrent
 joxit/docker-registry-ui:static
 weejewel/wg-easy
 developer024/networkdownload
-whoami:latest
+traefik/whoami
