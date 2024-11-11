@@ -9,3 +9,7 @@ joxit/docker-registry-ui:static
 weejewel/wg-easy
 developer024/networkdownload
 traefik/whoami
+linuxserver/jackett
+lovechen/embyserver
+19970688/nastools-bt
+nevinee-qbittorrent
