@@ -12,5 +12,4 @@ traefik/whoami
 linuxserver/jackett
 lovechen/embyserver
 19970688/nastools-bt
-nevinee-qbittorrent
-flaresolverr/flaresolverr
+flaresolverr
