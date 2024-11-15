@@ -14,3 +14,4 @@ lovechen/embyserver
 19970688/nastools-bt
 nevinee/qbittorrent
 flaresolverr/flaresolverr
+jxxghp/moviepilot
